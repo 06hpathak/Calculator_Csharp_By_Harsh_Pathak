@@ -1,2 +1,2 @@
-# Notepad_Csharp
-I created Notepad using C#.
+# Calculator_Csharp
+I created Calculator using C#.
