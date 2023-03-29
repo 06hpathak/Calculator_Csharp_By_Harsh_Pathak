@@ -1,0 +1,11 @@
+C:\Users\abc\source\repos\Calculator_Harsh_Pathak\Calculator_Harsh_Pathak\obj\Debug\Calculator_Harsh_Pathak.csproj.AssemblyReference.cache
+C:\Users\abc\source\repos\Calculator_Harsh_Pathak\Calculator_Harsh_Pathak\obj\Debug\Calculator_Harsh_Pathak.Properties.Resources.resources
+C:\Users\abc\source\repos\Calculator_Harsh_Pathak\Calculator_Harsh_Pathak\obj\Debug\Calculator_Harsh_Pathak.csproj.GenerateResource.cache
+C:\Users\abc\source\repos\Calculator_Harsh_Pathak\Calculator_Harsh_Pathak\obj\Debug\Calculator_Harsh_Pathak.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\Calculator_Harsh_Pathak\Calculator_Harsh_Pathak\obj\Debug\Calculator_Harsh_Pathak.calchelp.resources
+C:\Users\abc\source\repos\Calculator_Harsh_Pathak\Calculator_Harsh_Pathak\obj\Debug\Calculator_Harsh_Pathak.calcmain.resources
+C:\Users\abc\source\repos\Calculator_Harsh_Pathak\Calculator_Harsh_Pathak\bin\Debug\Calculator_Harsh_Pathak.exe.config
+C:\Users\abc\source\repos\Calculator_Harsh_Pathak\Calculator_Harsh_Pathak\bin\Debug\Calculator_Harsh_Pathak.exe
+C:\Users\abc\source\repos\Calculator_Harsh_Pathak\Calculator_Harsh_Pathak\bin\Debug\Calculator_Harsh_Pathak.pdb
+C:\Users\abc\source\repos\Calculator_Harsh_Pathak\Calculator_Harsh_Pathak\obj\Debug\Calculator_Harsh_Pathak.exe
+C:\Users\abc\source\repos\Calculator_Harsh_Pathak\Calculator_Harsh_Pathak\obj\Debug\Calculator_Harsh_Pathak.pdb
